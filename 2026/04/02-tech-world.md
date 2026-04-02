@@ -1,0 +1,95 @@
+# Tech & World News Daily — April 2, 2026
+
+*Your morning briefing on technology, AI, and global affairs*
+
+---
+
+## Tech & AI
+
+### Anthropic Accidentally Leaks Claude Code Source Code
+
+In a notable security incident, Anthropic accidentally leaked the internal source code for its popular **Claude Code** tool. The leak surfaced publicly and became one of the trending tech stories. While details on how it happened are still emerging, it's a reminder that even AI safety-focused companies can have operational slip-ups.
+
+---
+
+### IBM and Arm Announce Strategic Collaboration
+
+IBM and Arm have announced a **strategic collaboration to shape the future of enterprise computing**. The partnership aims to bring Arm's energy-efficient chip architecture deeper into enterprise workloads — a space traditionally dominated by x86 (Intel/AMD). This is a big signal that the Arm architecture push is moving beyond mobile and into data centers and business infrastructure. *(937+ points on HN)*
+
+---
+
+### Cloudflare Launches EmDash — A WordPress Successor
+
+Cloudflare unveiled **EmDash**, a spiritual successor to WordPress designed to solve the plugin security problem that has plagued WordPress sites for years. The project generated massive interest in the developer community (578 points on HN), as WordPress powers ~40% of the web but is notorious for plugin vulnerabilities.
+
+---
+
+### Mercor Hit by Cyberattack via LiteLLM Compromise
+
+AI hiring startup **Mercor** disclosed it was hit by a cyberattack tied to a compromise of the open-source **LiteLLM** project. This highlights the growing supply-chain attack surface in AI infrastructure — as companies increasingly depend on open-source AI tooling, a single compromised dependency can cascade.
+
+---
+
+### DRAM Pricing Is Killing the Hobbyist SBC Market
+
+A popular analysis (487 points on HN) argues that **soaring DRAM prices** are making single-board computers (like Raspberry Pi alternatives) increasingly unaffordable for hobbyists. Memory costs now dominate the bill of materials, squeezing the budget-friendly computing space.
+
+---
+
+### Steam on Linux Tops 5% Market Share
+
+**Linux gaming** hit a milestone: Steam's hardware survey shows Linux usage **surpassed 5%** in March 2026. While still small, this represents steady growth driven by Valve's Steam Deck and improvements in Proton compatibility layers.
+
+---
+
+### Other Tech Headlines
+- **Quantum computing bombshells** (not April Fools): Scott Aaronson highlights several genuine breakthroughs in quantum computing
+- **Git bayesect**: A new tool for Bayesian Git bisection of non-deterministic bugs (284 points on HN)
+- **Meta open-sources AI for cement/concrete**: Facebook Engineering published work on using AI to optimize American-produced cement and concrete
+- **Email obfuscation in 2026**: Analysis of what still works to protect email addresses from scrapers (150 points on HN)
+
+---
+
+## World News
+
+### Trump Addresses Nation on Iran, Signals 2-3 Week Timeline
+
+In a nearly 20-minute prime-time address, President Trump defended **"Operation Epic Fury"** and said the US would hit Iran "extremely hard over the next two to three weeks." Key points:
+- Framed Iran's nuclear program as an "intolerable threat" to global order
+- Did NOT mention NATO despite threatening earlier in the day to pull the US out of the alliance
+- Oil prices spiked after the speech
+- Iran vowed to "fight back," with Tehran promising resistance
+
+---
+
+### Artemis II Successfully Launches for the Moon
+
+NASA's **Artemis II** successfully launched from Kennedy Space Center with four astronauts aboard — the first crewed deep-space flight in over 50 years. The 10-day mission will send the crew around the moon (but not land), potentially breaking the distance record of 248,655 miles set by Apollo 13. The crew is expected to reach the moon's vicinity by Monday, April 6.
+
+---
+
+### Birthright Citizenship Order Faces Supreme Court Skepticism
+
+The Supreme Court appears likely to **strike down** Trump's executive order ending birthright citizenship for babies born to parents in the US temporarily or unlawfully. Justices asked pointed questions about the order's legal basis during oral arguments. Trump attended part of the arguments — a first for a sitting president.
+
+---
+
+### Gaza Ceasefire Violations Documented
+
+Reports continue to document **Israeli violations of the Gaza ceasefire agreement**, with tracking showing repeated breaches since the truce began.
+
+---
+
+### Hasbro Suffers Major Cyberattack
+
+Toymaker **Hasbro** disclosed it was hacked and warned recovery could take several weeks. The cyberattack's scope and perpetrators are still being investigated.
+
+---
+
+### Government Shutdown May End Soon
+
+Republican congressional leaders announced a deal to accept a **Senate compromise** to fund the Department of Homeland Security, while fast-tracking a separate bill for immigration enforcement funding.
+
+---
+
+*Generated by Xi Cas | [Subscribe via GitHub](https://github.com/xicas-wq/daily-newsletter)*
